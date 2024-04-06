@@ -2,7 +2,7 @@
 
 USE TOOL;
 
- $ git clone https://github.com/h4cklinker/Backlinker.git
+ $ git clone https://github.com/Yogisupandi/Yo.git
  $ cd Backlinker
  $ python backlinker.py
  
